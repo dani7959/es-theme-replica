@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1016mm"
+   height="166.92563mm"
+   viewBox="0 0 1016 166.92563"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="arcade.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.40511539"
+     inkscape:cx="1920.4405"
+     inkscape:cy="314.72515"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(402.96042,-65.0875)">
+    <g
+       id="g14"
+       transform="matrix(0.26458333,0,0,0.26458333,-402.96042,65.0875)">
+	<g
+   id="g2">
+		<polygon
+   points="3840,630.9 3840,509.4 3498.3,509.4 3498.3,439.4 3618.3,439.4 3618.3,360.5 3498.3,360.5 3498.3,290.4 3840,290.4 3840,0 3498.3,0 3229.1,0 3229.1,290.4 3229.1,509.4 3229.1,630.9 3498.3,630.9 "
+   id="polygon1" />
+
+		<polygon
+   class="st0"
+   points="3469,410.2 3469,538.6 3810.8,538.6 3810.8,601.7 3258.4,601.7 3258.4,29.2 3810.8,29.2 3810.8,261.2 3469,261.2 3469,389.7 3589.1,389.7 3589.1,410.2 "
+   id="polygon2"
+   style="fill:#f2b11c" />
+
+		<polyline
+   class="st1"
+   points="3302.2,269.5 3302.2,73 3561.2,73   "
+   id="polyline2"
+   style="fill:none;stroke:#000000;stroke-width:20.2827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+
+	</g>
+
+	<g
+   id="g4">
+		<path
+   d="M 1610.2,315.4 1895.3,180.2 C 1844.6,73.7 1736,0 1610.2,0 1436,0 1294.8,141.2 1294.8,315.4 c 0,174.2 141.2,315.4 315.4,315.4 125.8,0 234.4,-73.7 285.1,-180.3 z"
+   id="path2" />
+
+		<path
+   class="st0"
+   d="m 1610.2,601.7 c -157.8,0 -286.2,-128.4 -286.2,-286.2 0,-157.8 128.4,-286.2 286.2,-286.2 55.2,0 108.8,15.7 154.9,45.5 36.7,23.7 67.4,55.3 89.9,92.3 l -313,148.4 313,148.4 c -22.5,37.1 -53.2,68.6 -89.9,92.3 -46.2,29.7 -99.7,45.5 -154.9,45.5 z"
+   id="path3"
+   style="fill:#f2b11c" />
+
+		<path
+   class="st1"
+   d="m 1599.6,391.2 188.1,89.2 c -13.8,14.8 -29.4,27.9 -46.4,38.9"
+   id="path4"
+   style="fill:none;stroke:#000000;stroke-width:20.2827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+
+	</g>
+
+	<g
+   id="g5">
+		<polygon
+   points="343.3,0 0,630.9 686.7,630.9 "
+   id="polygon4" />
+
+		<polygon
+   class="st0"
+   points="637.5,601.7 49.1,601.7 343.3,61.1 "
+   id="polygon5"
+   style="fill:#f2b11c" />
+
+		<polyline
+   class="st1"
+   points="495.3,431.9 563.8,557.9 434.3,557.9   "
+   id="polyline5"
+   style="fill:none;stroke:#000000;stroke-width:20.2827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+
+		<circle
+   cx="343.29999"
+   cy="399.29999"
+   r="30.6"
+   id="circle5" />
+
+	</g>
+
+	<g
+   id="g7">
+		<polygon
+   points="2170.6,0 1827.3,630.9 2514,630.9 "
+   id="polygon6" />
+
+		<polygon
+   class="st0"
+   points="2464.8,601.7 1876.4,601.7 2170.6,61.1 "
+   id="polygon7"
+   style="fill:#f2b11c" />
+
+		<polyline
+   class="st1"
+   points="2322.6,431.9 2391.1,557.9 2261.6,557.9   "
+   id="polyline7"
+   style="fill:none;stroke:#000000;stroke-width:20.2827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+
+		<circle
+   cx="2170.6001"
+   cy="399.29999"
+   r="30.6"
+   id="circle7" />
+
+	</g>
+
+	<g
+   id="g9">
+		<path
+   d="M 2882.3,630.9 H 2529.4 V 0 h 352.9 c 174.2,0 315.4,141.2 315.4,315.4 v 0 c 0.1,174.2 -141.2,315.5 -315.4,315.5 z"
+   id="path7" />
+
+		<path
+   class="st0"
+   d="M 2558.6,601.7 V 29.2 h 323.7 c 157.8,0 286.2,128.4 286.2,286.2 0,157.8 -128.4,286.2 -286.2,286.2 h -323.7 z"
+   id="path8"
+   style="fill:#f2b11c" />
+
+		<path
+   class="st1"
+   d="m 3124.6,323.7 c -4.2,122.9 -100.2,222.8 -221.4,233.2"
+   id="path9"
+   style="fill:none;stroke:#000000;stroke-width:20.2827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+
+		<circle
+   cx="2879.7"
+   cy="396.20001"
+   r="30.6"
+   id="circle9" />
+
+	</g>
+
+	<g
+   id="g13">
+		<path
+   d="m 1285.8,200.6 v 0 C 1285.8,89.8 1196,0 1085.3,0 H 702.1 v 355 46.2 229.7 h 583.7 L 1077.7,401.2 h 7.6 c 110.7,0 200.5,-89.8 200.5,-200.6 z"
+   id="path10" />
+
+		<path
+   class="st0"
+   d="M 731.3,601.7 V 29.2 h 353.9 c 94.5,0 171.4,76.9 171.4,171.4 0,94.5 -76.9,171.4 -171.3,171.4 h -7.6 c -11.6,0 -22,6.8 -26.7,17.4 -4.7,10.6 -2.7,22.9 5.1,31.4 L 1220,601.7 Z"
+   id="path11"
+   style="fill:#f2b11c" />
+
+		<path
+   class="st1"
+   d="m 1211.6,218.4 c -8.7,61.9 -62,109.8 -126.3,109.8"
+   id="path12"
+   style="fill:none;stroke:#000000;stroke-width:20.2827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+
+		<circle
+   cx="1005.5"
+   cy="203.8"
+   r="30.6"
+   id="circle12" />
+
+		<path
+   class="st1"
+   d="m 1011.5,431.9 c 3,6.6 7.1,12.8 12.1,18.3 l 97.6,107.7 H 991.8"
+   id="path13"
+   style="fill:none;stroke:#000000;stroke-width:20.2827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+
+	</g>
+
+</g>
+  </g>
+</svg>

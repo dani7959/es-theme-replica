@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1015.7354mm"
+   height="498.31625mm"
+   viewBox="0 0 1015.7354 498.31625"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="alg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.40511539"
+     inkscape:cx="718.31386"
+     inkscape:cy="1314.4403"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="1122.5381"
+       y1="1362.2252"
+       x2="3839"
+       y2="1362.2252">
+					<stop
+   offset="0.2529"
+   style="stop-color:#ED3339"
+   id="stop2" />
+
+					<stop
+   offset="0.8876"
+   style="stop-color:#FFD800"
+   id="stop3" />
+
+				</linearGradient>
+    <linearGradient
+       id="SVGID_2_"
+       gradientUnits="userSpaceOnUse"
+       x1="1033.0385"
+       y1="1401.1245"
+       x2="3839"
+       y2="1401.1245">
+					<stop
+   offset="0.2529"
+   style="stop-color:#ED3339"
+   id="stop4" />
+
+					<stop
+   offset="0.8876"
+   style="stop-color:#FFD800"
+   id="stop5" />
+
+				</linearGradient>
+    <linearGradient
+       id="SVGID_3_"
+       gradientUnits="userSpaceOnUse"
+       x1="943.56482"
+       y1="1440.0251"
+       x2="3839"
+       y2="1440.0251">
+					<stop
+   offset="0.2529"
+   style="stop-color:#ED3339"
+   id="stop6" />
+
+					<stop
+   offset="0.8876"
+   style="stop-color:#FFD800"
+   id="stop7" />
+
+				</linearGradient>
+    <linearGradient
+       id="SVGID_4_"
+       gradientUnits="userSpaceOnUse"
+       x1="854.06519"
+       y1="1478.9164"
+       x2="3839"
+       y2="1478.9164">
+					<stop
+   offset="0.2529"
+   style="stop-color:#ED3339"
+   id="stop8" />
+
+					<stop
+   offset="0.8876"
+   style="stop-color:#FFD800"
+   id="stop9" />
+
+				</linearGradient>
+    <linearGradient
+       id="SVGID_5_"
+       gradientUnits="userSpaceOnUse"
+       x1="816.76727"
+       y1="1517.7412"
+       x2="3839"
+       y2="1517.7412">
+					<stop
+   offset="0.2529"
+   style="stop-color:#ED3339"
+   id="stop10" />
+
+					<stop
+   offset="0.8876"
+   style="stop-color:#FFD800"
+   id="stop11" />
+
+				</linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(402.96042,100.54167)">
+    <g
+       id="g30"
+       transform="matrix(0.26458333,0,0,0.26458333,-402.96042,-100.54167)">
+	<g
+   id="g13">
+		<g
+   id="g12">
+			<polygon
+   points="363.1,1883.4 588,1494.5 390.7,1337.7 668.9,1337.7 817.5,1070.6 817.5,1337.7 1243.9,1337.7 1243.9,0 0,1883.4 "
+   id="polygon1" />
+
+			<polygon
+   points="828.3,1543.1 919.5,1814.4 1243.9,1814.4 1243.9,1543.1 "
+   id="polygon2" />
+
+			<g
+   id="g11">
+				<linearGradient
+   id="linearGradient12"
+   gradientUnits="userSpaceOnUse"
+   x1="1122.5381"
+   y1="1362.2252"
+   x2="3839"
+   y2="1362.2252">
+					<stop
+   offset="0.2529"
+   style="stop-color:#ED3339"
+   id="stop1" />
+
+					<stop
+   offset="0.8876"
+   style="stop-color:#FFD800"
+   id="stop12" />
+
+				</linearGradient>
+
+				<polygon
+   class="st0"
+   points="3839,1367.9 3839,1356.4 1180.8,1349.5 1122.5,1375 "
+   id="polygon3"
+   style="fill:url(#SVGID_1_)" />
+
+				<linearGradient
+   id="linearGradient14"
+   gradientUnits="userSpaceOnUse"
+   x1="1033.0385"
+   y1="1401.1245"
+   x2="3839"
+   y2="1401.1245">
+					<stop
+   offset="0.2529"
+   style="stop-color:#ED3339"
+   id="stop13" />
+
+					<stop
+   offset="0.8876"
+   style="stop-color:#FFD800"
+   id="stop14" />
+
+				</linearGradient>
+
+				<polygon
+   class="st1"
+   points="3839,1406.8 3839,1395.3 1092.4,1388.1 1033,1414.1 "
+   id="polygon5"
+   style="fill:url(#SVGID_2_)" />
+
+				<linearGradient
+   id="linearGradient16"
+   gradientUnits="userSpaceOnUse"
+   x1="943.56482"
+   y1="1440.0251"
+   x2="3839"
+   y2="1440.0251">
+					<stop
+   offset="0.2529"
+   style="stop-color:#ED3339"
+   id="stop15" />
+
+					<stop
+   offset="0.8876"
+   style="stop-color:#FFD800"
+   id="stop16" />
+
+				</linearGradient>
+
+				<polygon
+   class="st2"
+   points="3839,1445.6 3839,1434.2 1004,1426.8 943.6,1453.2 "
+   id="polygon7"
+   style="fill:url(#SVGID_3_)" />
+
+				<linearGradient
+   id="linearGradient18"
+   gradientUnits="userSpaceOnUse"
+   x1="854.06519"
+   y1="1478.9164"
+   x2="3839"
+   y2="1478.9164">
+					<stop
+   offset="0.2529"
+   style="stop-color:#ED3339"
+   id="stop17" />
+
+					<stop
+   offset="0.8876"
+   style="stop-color:#FFD800"
+   id="stop18" />
+
+				</linearGradient>
+
+				<polygon
+   class="st3"
+   points="3839,1484.5 3839,1473.1 915.5,1465.5 854.1,1492.4 "
+   id="polygon9"
+   style="fill:url(#SVGID_4_)" />
+
+				<linearGradient
+   id="linearGradient20"
+   gradientUnits="userSpaceOnUse"
+   x1="816.76727"
+   y1="1517.7412"
+   x2="3839"
+   y2="1517.7412">
+					<stop
+   offset="0.2529"
+   style="stop-color:#ED3339"
+   id="stop19" />
+
+					<stop
+   offset="0.8876"
+   style="stop-color:#FFD800"
+   id="stop20" />
+
+				</linearGradient>
+
+				<polygon
+   class="st4"
+   points="827.1,1504.1 816.8,1508.7 824.2,1531.3 3839,1523.4 3839,1512 "
+   id="polygon11"
+   style="fill:url(#SVGID_5_)" />
+
+			</g>
+
+		</g>
+
+	</g>
+
+	<g
+   id="g19">
+		<path
+   d="m 1459.7,950 v 359.3 H 1338.2 V 685.6 h 164.1 l 52,287.2 54.5,-287.2 h 152 v 623.7 H 1638.2 V 950 l -60.9,359.3 h -54.5 z"
+   id="path13" />
+
+		<path
+   d="M 1816.5,1309.4 V 685.6 h 215.1 V 777 H 1951 v 148.4 h 74.9 v 92.5 H 1951 v 201.8 h 80.7 v 89.6 h -215.2 z"
+   id="path14" />
+
+		<path
+   d="M 2088.4,1309.4 V 685.6 h 154.1 c 66.9,0 109.6,7.4 128,22.3 18.4,14.8 27.6,50.3 27.6,106.4 v 64.8 c 0,45.3 -4.6,75.6 -13.6,90.8 -9.1,15.3 -49.3,27 -73.1,35.3 23,6.5 63,17.2 72.5,32 9.5,14.9 14.2,37.9 14.2,69.1 v 203.1 h -130.2 v -214.3 c 0,-13 -2.2,-21.8 -6.5,-26.3 -4.3,-4.5 -17.7,-6.8 -29.6,-6.8 h -8 v 247.3 h -135.4 z m 179.5,-406.9 v -92 c 0,-16.7 -2,-26.9 -6,-30.7 -4,-3.8 -12.1,-5.7 -24.3,-5.7 h -13.2 v 172 c 1.7,0 4.1,0.2 7.3,0.4 3.1,0.3 5.4,0.4 6.8,0.4 11.4,0 19.2,-1.8 23.3,-5.5 4.1,-3.6 6.2,-10.6 6.2,-20.8 v -18.1 z"
+   id="path15" />
+
+		<path
+   d="M 2461.1,1309.4 V 685.6 h 134.4 v 623.7 h -134.4 z"
+   id="path16" />
+
+		<path
+   d="m 2658.4,811.7 c 0,-58.1 8.6,-94.2 25.7,-108.2 17.2,-14 68.5,-29.6 136.9,-29.6 69.9,0 104.8,16.1 121.7,31.2 16.9,15 25.4,50.6 25.4,106.7 v 86.9 h -135.5 v -83.1 c 0,-12 -1.5,-20.2 -4.6,-24.4 -3,-4.3 -15.2,-6.4 -23.5,-6.4 -6.3,0 -10.8,1.9 -13.3,5.6 -2.5,3.8 -3.8,12.2 -3.8,25.2 V 1179 c 0,11.5 1.4,19.6 4.4,24.4 2.9,4.7 7.9,7.1 15,7.1 6.1,0 17.3,-1.8 20.7,-5.4 3.4,-3.6 5.1,-8.7 5.1,-15.2 V 1179 1043.8 h 135.5 v 139 c 0,57.5 -8.7,93.7 -26.1,108.6 -17.4,14.9 -51.5,31.2 -119.9,31.2 -69.2,0 -121.1,-16.5 -138.1,-31.8 -17,-15.3 -25.6,-51.3 -25.6,-108 z"
+   id="path17" />
+
+		<path
+   d="m 2988.5,1309.4 102.9,-623.7 h 163.5 l 73.1,623.7 h -116.1 l -13.7,-110 h -69.4 l -10.2,110 z m 160.8,-223.7 h 42.5 l -21.1,-240.8 z"
+   id="path18" />
+
+		<path
+   d="M 3357.2,1309.4 V 685.6 h 125.4 l 67.1,255.7 V 685.6 h 117.2 v 623.7 h -108 l -85.6,-305.7 v 305.7 h -116.1 z"
+   id="path19" />
+
+	</g>
+
+	<g
+   id="g21">
+		<path
+   d="m 3721.6,756.2 v -51.6 h -21.4 v -11.2 h 57.5 v 11.2 h -21.2 v 51.6 z"
+   id="path20" />
+
+		<path
+   d="m 3766.4,756.2 v -62.8 h 22 l 14.3,47.8 14.2,-47.8 h 22.1 v 62.8 h -14 v -50.6 l -14.7,50.6 h -15.2 l -14.8,-50.6 v 50.6 z"
+   id="path21" />
+
+	</g>
+
+	<g
+   id="g29">
+		<polygon
+   points="1338.2,1605.4 1338.2,1814.4 1488.7,1814.4 1488.7,1792.3 1360.2,1792.3 1360.2,1605.4 "
+   id="polygon21" />
+
+		<polygon
+   points="2126.1,1719.9 2126.1,1697.8 1990.9,1697.8 1990.9,1627.5 2131.1,1627.5 2131.1,1605.4 1968.9,1605.4 1968.9,1814.4 2131.1,1814.4 2131.1,1792.3 1990.9,1792.3 1990.9,1719.9 "
+   id="polygon22" />
+
+		<polygon
+   points="3440.8,1719.9 3440.8,1697.8 3305.7,1697.8 3305.7,1627.5 3445.8,1627.5 3445.8,1605.4 3283.6,1605.4 3283.6,1814.4 3445.8,1814.4 3445.8,1792.3 3305.7,1792.3 3305.7,1719.9 "
+   id="polygon23" />
+
+		<g
+   id="g24">
+			<path
+   d="m 2304.4,1675.4 c 0.3,0 0.6,-0.1 0.9,-0.1 -2.8,-0.1 -4.6,-0.2 -4.6,-0.2 1.2,0.1 2.4,0.3 3.7,0.3 z"
+   id="path23" />
+
+			<path
+   d="m 2320.7,1723.6 c 18.4,-5.3 31.7,-19.3 31.7,-35.9 v -44 c 0,-21.1 -21.5,-38.2 -47.9,-38.2 h -138.3 v 208.9 h 22.1 v -81.1 h 117.5 c 14.3,0 25.9,18.4 25.9,29.8 v 51.4 h 22.1 v -54.7 c -0.2,-17 -14.1,-31.2 -33.1,-36.2 z m -16.3,-12.4 c -0.9,0 -77.6,-0.1 -116.2,0 v -83.8 c 37.4,-0.3 110.4,-1 116.2,-1 14.3,0 25.9,9.2 25.9,20.6 v 37.4 c 0,11.4 -11.6,26.8 -25.9,26.8 z"
+   id="path24" />
+
+		</g>
+
+		<path
+   d="m 1631.8,1605.4 h -26.5 l -98.1,208.9 h 24.4 l 20.4,-43.4 h 133.2 l 20.4,43.4 h 24.4 z m -69.5,143.5 56.2,-119.8 56.2,119.8 z"
+   id="path25" />
+
+		<path
+   d="m 2854.8,1605.4 h -26.5 l -98.1,208.9 h 24.4 l 20.4,-43.4 h 133.2 l 20.4,43.4 h 24.4 z m -69.5,143.5 56.2,-119.8 56.2,119.8 z"
+   id="path26" />
+
+		<path
+   d="m 1933.4,1665.5 v -21.9 c 0,-21.1 -21.5,-38.2 -47.9,-38.2 -2.4,0 -7.1,0 -7.1,0 0,0 -78.3,0 -85.6,0 -26.5,0 -47.9,17.1 -47.9,38.2 v 40.5 c 0,21.1 21.5,38.2 47.9,38.2 0,0 89.2,0 92.8,0 14.3,0 25.9,9.2 25.9,20.6 v 28.6 c 0,11.4 -11.6,20.7 -25.9,20.7 0,0 -78.5,0 -92.8,0 -14.3,0 -25.9,-9.2 -25.9,-20.7 v -22.7 h -22.1 v 27.2 c 0,21.1 21.5,38.2 47.9,38.2 2.1,0 6.9,0 6.9,0 0,0 78.4,0 85.9,0 26.5,0 47.9,-17.1 47.9,-38.2 v -37.6 c 0,-21.1 -21.5,-38.2 -47.9,-38.2 h -92.8 c -14.3,0 -25.9,-9.2 -25.9,-20.6 V 1648 c 0,-11.4 11.6,-20.7 25.9,-20.7 13.1,0 92.8,0 92.8,0 14.3,0 25.9,9.3 25.9,20.7 v 17.4 h 22 z"
+   id="path27" />
+
+		<path
+   d="m 3666.9,1665.5 v -21.9 c 0,-21.1 -21.5,-38.2 -47.9,-38.2 -2.4,0 -7.1,0 -7.1,0 0,0 -78.3,0 -85.6,0 -26.5,0 -47.9,17.1 -47.9,38.2 v 40.5 c 0,21.1 21.4,38.2 47.9,38.2 0,0 89.2,0 92.8,0 14.3,0 25.9,9.2 25.9,20.6 v 28.6 c 0,11.4 -11.6,20.7 -25.9,20.7 0,0 -78.5,0 -92.8,0 -14.3,0 -25.9,-9.2 -25.9,-20.7 v -22.7 h -22.1 v 27.2 c 0,21.1 21.4,38.2 47.9,38.2 2.1,0 6.9,0 6.9,0 0,0 78.4,0 85.9,0 26.5,0 47.9,-17.1 47.9,-38.2 v -37.6 c 0,-21.1 -21.5,-38.2 -47.9,-38.2 h -92.8 c -14.3,0 -25.9,-9.2 -25.9,-20.6 V 1648 c 0,-11.4 11.6,-20.7 25.9,-20.7 13.1,0 92.8,0 92.8,0 14.3,0 25.9,9.3 25.9,20.7 v 17.4 h 22 z"
+   id="path28" />
+
+		<path
+   d="m 2705.1,1665.5 v -21.9 c 0,-21.1 -21.5,-38.2 -47.9,-38.2 h -107.8 c -26.5,0 -47.9,17.1 -47.9,38.2 v 132.5 c 0,21.1 21.5,38.2 47.9,38.2 h 107.8 c 26.5,0 47.9,-17.1 47.9,-38.2 v -65 H 2598 v 22.1 h 85.1 v 38.4 c 0,11.4 -11.6,20.7 -25.9,20.7 h -107.8 c -14.3,0 -25.9,-9.2 -25.9,-20.7 v -123.5 c 0,-11.4 11.6,-20.7 25.9,-20.7 h 107.8 c 14.3,0 25.9,9.3 25.9,20.7 v 17.4 z"
+   id="path29" />
+
+		<polygon
+   points="3117.7,1814.4 3219.6,1629.9 3219.6,1813.8 3241.6,1813.8 3241.6,1605.4 3207.9,1605.4 3108.6,1785.3 3009.2,1605.4 2975.5,1605.4 2975.5,1813.8 2997.6,1813.8 2997.6,1629.9 3099.4,1814.4 "
+   id="polygon29" />
+
+	</g>
+
+</g>
+  </g>
+</svg>
