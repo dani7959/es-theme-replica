@@ -1,0 +1,11 @@
+﻿<theme>
+
+  <formatVersion>7</formatVersion>
+
+  <view name="basic, detailed, video">
+    <textlist name="gamelist">
+      <scrollSound>./../sounds/scroll.wav</scrollSound>
+    </textlist>
+  </view>
+
+</theme>

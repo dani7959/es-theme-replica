@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50"
+   height="50"
+   viewBox="0 0 13.229167 13.229167"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Retroachievements.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="11.588215"
+     inkscape:cx="14.972107"
+     inkscape:cy="28.606649"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="g3"
+     transform="translate(-45.667309,-78.03062)">
+    <path
+       d="m 45.667309,88.27434 h 0.984047 v -5.001624 h 1.87191 q 0.05919,0 0.08879,0.04439 0.03701,0.03698 0.03701,0.08879 0,0.05178 -0.03701,0.09617 -0.0296,0.04439 -0.08879,0.04439 h -1.605551 v 4.727867 h 0.984047 v -2.537807 l 1.464973,2.537807 h 1.058036 l -2.108673,-3.706826 h 0.244162 q 0.229353,0 0.429134,-0.08879 0.19978,-0.08879 0.340347,-0.244162 0.147977,-0.155387 0.229353,-0.362544 0.0814,-0.214555 0.0814,-0.458728 0,-0.569712 -0.310752,-0.850869 -0.303353,-0.281156 -0.769481,-0.281156 H 45.66731 Z m 5.120006,0 h 1.006244 L 50.10662,85.255608 q 0.369943,-0.281156 0.58451,-0.739885 0.214555,-0.466128 0.214555,-1.102429 0,-0.503122 -0.18496,-0.939654 -0.177572,-0.436532 -0.495723,-0.762082 -0.318151,-0.325549 -0.747284,-0.510521 -0.429133,-0.184959 -0.917458,-0.184959 h -2.892951 v 0.998845 h 2.892951 q 0.310752,0 0.554914,0.103584 0.251561,0.103584 0.429134,0.288555 0.177572,0.18496 0.273757,0.443931 0.09617,0.25896 0.09617,0.562313 0,0.295954 -0.09617,0.547515 -0.09617,0.244162 -0.251561,0.429133 -0.155364,0.18496 -0.362544,0.295954 -0.199757,0.110972 -0.414335,0.125793 z m 3.803005,-0.865666 h 3.070524 l -1.879308,-5.21619 q -0.02214,-0.07399 -0.13318,-0.13318 -0.110971,-0.05919 -0.214555,-0.05919 -0.118382,0 -0.221965,0.05919 -0.0962,0.05919 -0.118382,0.13318 l -2.138268,6.081856 h -0.984048 l 2.286246,-6.451799 q 0.05178,-0.155388 0.147977,-0.295954 0.0962,-0.147977 0.236763,-0.25896 0.147977,-0.118382 0.340347,-0.18496 0.199781,-0.0666 0.45133,-0.0666 0.251561,0 0.443931,0.0666 0.19237,0.06658 0.332949,0.18496 0.147977,0.110971 0.244162,0.25896 0.0962,0.140566 0.155387,0.295954 l 2.286246,6.451799 h -4.306132 z m 0,-0.266358 v -0.281157 l -0.473526,1.413181 h -0.895261 l 2.034684,-5.896885 q 0.01468,-0.04439 0.06658,-0.07399 0.05919,-0.03698 0.110994,-0.03698 0.05178,0 0.110972,0.03698 0.05919,0.0296 0.07399,0.07399 l 1.686938,4.764861 z m 0.843469,-2.744974 -0.591908,1.86451 h 1.206013 z"
+       id="path3"
+       style="font-size:3.175px;line-height:1.85208px;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT';text-align:center;text-anchor:middle;white-space:pre;inline-size:10.858;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:0"
+       aria-label="r a" />
+  </g>
+</svg>

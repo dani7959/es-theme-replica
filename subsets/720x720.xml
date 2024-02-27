@@ -1,0 +1,33 @@
+﻿<theme>
+
+  <formatVersion>7</formatVersion>
+
+  <variables>
+    <systemBackground ifHelpPrompts="true">720x720_system.svg</systemBackground >
+    <systemBackground ifHelpPrompts="false">720x720_system_nohelp.svg</systemBackground >
+    <menuBackground>720x720_menu.svg</menuBackground>
+    <runningFontSize>0.0195</runningFontSize>
+    <batteryIndicatorPosY>0.0075</batteryIndicatorPosY>
+    <batteryIndicatorSize>0.0347</batteryIndicatorSize>
+    <clockPosYFrom>0.012</clockPosYFrom>
+    <carouselLogoSizeX>0.4791</carouselLogoSizeX>
+    <columnSizeX>0.4582</columnSizeX>
+    <leftColumnPosXFrom>0.0209</leftColumnPosXFrom>
+    <rightColumnPosXFrom>0.5209</rightColumnPosXFrom>
+    <rightColumnPosXTo>0.9791</rightColumnPosXTo>
+    <marqueeSizeY>0.2374</marqueeSizeY>
+    <releasedatePosYFrom ifHelpPrompts="true">0.3292</releasedatePosYFrom>
+    <releasedatePosYFrom ifHelpPrompts="false">0.3542</releasedatePosYFrom>
+    <ratingPosYMiddle ifHelpPrompts="true">0.3594</ratingPosYMiddle>
+    <ratingPosYMiddle ifHelpPrompts="false">0.3844</ratingPosYMiddle>
+    <publisherPosYFrom ifHelpPrompts="true">0.3896</publisherPosYFrom>
+    <publisherPosYFrom ifHelpPrompts="false">0.4146</publisherPosYFrom>
+    <gamegridPaddingX>0.1146</gamegridPaddingX>
+    <gridtileDefaultSizeX>0.2291</gridtileDefaultSizeX>
+    <gridVideoPosYTo>0.6708</gridVideoPosYTo>
+    <gridDescriptionPosYFrom>0.6917</gridDescriptionPosYFrom>
+    <gridDescriptionSizeY ifHelpPrompts="true">0.2374</gridDescriptionSizeY>
+    <gridDescriptionSizeY ifHelpPrompts="false">0.2874</gridDescriptionSizeY>
+  </variables>
+
+</theme>

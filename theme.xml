@@ -1,0 +1,313 @@
+<!--
+name: Replica ES Theme
+version: 1.0
+author: dani7959
+license: GNU General Public License v3.0
+-->
+
+<theme>
+
+  <formatVersion>7</formatVersion>
+
+  <include subset="ASPECT RATIO" name="4:3">./subsets/640x480.xml</include>
+  <include subset="ASPECT RATIO" name="1:1">./subsets/720x720.xml</include>
+  <include subset="ASPECT RATIO" name="16:9">./subsets/1280x720.xml</include>
+  <include subset="COLOR" name="GRAY">./subsets/gray.xml</include>
+  <include subset="COLOR" name="RED">./subsets/red.xml</include>
+  <include subset="COLOR" name="YELLOW">./subsets/yellow.xml</include>
+  <include subset="COLOR" name="GREEN">./subsets/green.xml</include>
+  <include subset="COLOR" name="BLUE">./subsets/blue.xml</include>
+  <include subset="SCROLL SOUND" name="OFF"></include>
+  <include subset="SCROLL SOUND" name="ON">./subsets/sound.xml</include>
+
+  <variables>
+    <customFont>neo_scifi_v20.ttf</customFont>
+    <mainFontSize>0.0396</mainFontSize>
+    <carouselFontSize>0.125</carouselFontSize>
+    <runningSectionSizeY>0.05</runningSectionSizeY>
+    <carouselSizeY ifHelpPrompts="true">0.9</carouselSizeY>
+    <carouselSizeY ifHelpPrompts="false">0.95</carouselSizeY>
+    <carouselLogoSizeY ifHelpPrompts="true">0.15</carouselLogoSizeY>
+    <carouselLogoSizeY ifHelpPrompts="false">0.1583</carouselLogoSizeY>
+    <gamelistPosYFrom ifHelpPrompts="true">0.0709</gamelistPosYFrom>
+    <gamelistPosYFrom ifHelpPrompts="false">0.0959</gamelistPosYFrom>
+    <gamelistSizeY>0.8582</gamelistSizeY>
+    <gamegridPosYFrom>0.0709</gamegridPosYFrom>
+    <gamegridSizeY ifHelpPrompts="true">0.8582</gamegridSizeY>
+    <gamegridSizeY ifHelpPrompts="false">0.9082</gamegridSizeY>
+    <gridtileDefaultSizeY ifHelpPrompts="true">0.2394</gridtileDefaultSizeY>
+    <gridtileDefaultSizeY ifHelpPrompts="false">0.256</gridtileDefaultSizeY>
+    <gridtileSelectedSizeY ifHelpPrompts="true">0.3376</gridtileSelectedSizeY>
+    <gridtileSelectedSizeY ifHelpPrompts="false">0.3544</gridtileSelectedSizeY>
+    <gridRatingPosYMiddle>0.1011</gridRatingPosYMiddle>
+    <gridPublisherPosYFrom>0.1313</gridPublisherPosYFrom>
+    <videoPosYTo ifHelpPrompts="true">0.9291</videoPosYTo>
+    <videoPosYTo ifHelpPrompts="false">0.9541</videoPosYTo>
+    <rowSizeY>0.0604</rowSizeY>
+  </variables>
+
+<!-- header -->
+
+  <view name="screen">
+    <batteryIndicator name="batteryIndicator">
+      <pos>0 ${batteryIndicatorPosY}</pos>
+      <size>${batteryIndicatorSize} ${batteryIndicatorSize}</size>
+      <color>${themeColor}</color>
+    </batteryIndicator>
+    <text name="clock">
+      <pos>1 ${clockPosYFrom}</pos>
+      <origin>1 0</origin>
+      <size>0 0</size>
+      <fontSize>${runningFontSize}</fontSize>
+      <color>${themeColor}</color>
+      <lineSpacing>1</lineSpacing>
+     </text>
+  </view>
+
+<!-- footer -->
+
+  <view name="system, basic, detailed, video, grid">
+    <helpsystem name="help">
+      <pos>0.5 1</pos>
+      <origin>0.5 1</origin>
+      <fontSize>${runningFontSize}</fontSize>
+      <textColor>${themeColor}</textColor>
+      <iconColor>${themeColor}</iconColor>
+    </helpsystem>
+  </view>
+
+<!-- system view -->
+
+  <view name="system">
+    <image name="background" extra="true">
+      <path>./backgrounds/${systemBackground}</path>
+      <size>1 1</size>
+    </image>
+    <carousel name="systemcarousel">
+      <type>vertical</type>
+      <pos>0 ${runningSectionSizeY}</pos>
+      <size>1 ${carouselSizeY}</size>
+      <color>FF</color>
+      <logoSize>${carouselLogoSizeX} ${carouselLogoSizeY}</logoSize>
+      <logoScale>2</logoScale>
+    </carousel>
+    <text name="systemInfo">
+      <pos>0.5 0</pos>
+      <origin>0.5 0</origin>
+      <size>1 ${runningSectionSizeY}</size>
+      <fontSize>${runningFontSize}</fontSize>
+      <color>${themeColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <forceUppercase>1</forceUppercase>
+    </text>
+    <image name="logo">
+      <path>./logos/${system.theme}.svg</path>
+    </image>
+    <text name="logoText">
+      <fontPath>./fonts/${customFont}</fontPath>
+      <fontSize>${carouselFontSize}</fontSize>
+      <color>${themeColor}</color>
+      <forceUppercase>1</forceUppercase>
+    </text>
+  </view>
+
+<!-- menu view -->
+
+  <view name="menu">
+    <menuBackground name="menubg">
+      <path>./backgrounds/${menuBackground}</path>
+    </menuBackground>
+    <menuIcons name="menuicons">
+      <iconAdvanced>./icons/Advanced.svg</iconAdvanced>
+      <iconBrightnessctl>./icons/Brightnessctl.svg</iconBrightnessctl>
+      <iconControllers>./icons/Controllers.svg</iconControllers>
+      <iconFastShutdown>./icons/FastShutdown.svg</iconFastShutdown>
+      <iconGames>./icons/Games.svg</iconGames>
+      <iconKodi>./icons/Kodi.svg</iconKodi>
+      <iconManual>./icons/Manual.svg</iconManual>
+      <iconNetwork>./icons/Network.svg</iconNetwork>
+      <iconQuit>./icons/Quit.svg</iconQuit>
+      <iconRestart>./icons/Restart.svg</iconRestart>
+      <iconRetroachievements>./icons/Retroachievements.svg</iconRetroachievements>
+      <iconScraper>./icons/Scraper.svg</iconScraper>
+      <iconShutdown>./icons/Shutdown.svg</iconShutdown>
+      <iconSound>./icons/Sound.svg</iconSound>
+      <iconSystem>./icons/System.svg</iconSystem>
+      <iconUI>./icons/UI.svg</iconUI>
+      <iconUpdates>./icons/Updates.svg</iconUpdates>
+    </menuIcons>
+    <menuText name="menutitle, menufooter">
+      <fontSize>${mainFontSize}</fontSize>
+      <color>000000</color>
+    </menuText>
+    <menuText name="menutext">
+      <fontSize>${mainFontSize}</fontSize>
+      <color>000000</color>
+      <separatorColor>FF</separatorColor>
+      <selectorColor>000000</selectorColor>
+      <selectedColor>${themeColor}</selectedColor>
+    </menuText>
+    <menuTextSmall name="menutextsmall">
+      <fontSize>${mainFontSize}</fontSize>
+      <color>000000</color>
+    </menuTextSmall>
+  </view>
+
+<!-- game views -->
+
+  <view name="basic, detailed, video, grid">
+    <image name="background">
+      <path>./backgrounds/${systemBackground}</path>
+    </image>
+    <text name="logoText">
+      <pos>0.5 0</pos>
+      <origin>0.5 0</origin>
+      <size>1 ${runningSectionSizeY}</size>
+      <fontSize>${runningFontSize}</fontSize>
+      <color>${themeColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <forceUppercase>1</forceUppercase>
+    </text>
+  </view>
+
+  <view name="basic, detailed, video">
+    <textlist name="gamelist">
+      <pos>0 ${gamelistPosYFrom}</pos>
+      <fontSize>${mainFontSize}</fontSize>
+      <horizontalMargin>${leftColumnPosXFrom}</horizontalMargin>
+      <primaryColor>000000</primaryColor>
+      <secondaryColor>000000</secondaryColor>
+      <selectedColor>${themeColor}</selectedColor>
+      <selectorColor>000000</selectorColor>
+      <lineSpacing>1.5</lineSpacing>
+      <forceUppercase>1</forceUppercase>
+    </textlist>
+  </view>
+
+  <view name="detailed, video, grid">
+    <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_developer, md_lbl_genre, md_genre, md_lbl_players, md_players, md_lbl_lastplayed, md_lbl_playcount, md_playcount">
+      <visible>false</visible>
+    </text>
+    <datetime name="md_lastplayed">
+      <visible>false</visible>
+    </datetime>
+    <datetime name="md_releasedate">
+      <size>${columnSizeX} ${rowSizeY}</size>
+      <fontPath>./fonts/${customFont}</fontPath>
+      <fontSize>${mainFontSize}</fontSize>
+      <color>${themeColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <format>%Y</format>
+      <forceUppercase>1</forceUppercase>
+    </datetime>
+    <rating name="md_rating">
+      <size>0 ${rowSizeY}</size>
+      <origin>1 0.5</origin>
+      <filledPath>./stars/star_filled.svg</filledPath>
+      <unfilledPath>./stars/star_unfilled.svg</unfilledPath>
+      <color>${themeColor}</color>
+    </rating>
+    <text name="md_publisher">
+      <size>${columnSizeX} ${rowSizeY}</size>
+      <fontPath>./fonts/${customFont}</fontPath>
+      <fontSize>${mainFontSize}</fontSize>
+      <color>${themeColor}</color>
+      <lineSpacing>1</lineSpacing>
+      <forceUppercase>1</forceUppercase>
+    </text>
+  </view>
+
+  <view name="video, grid">
+    <video name="md_video">
+      <origin>0.5 1</origin>
+      <maxSize>${columnSizeX} ${columnSizeX}</maxSize>
+      <showSnapshotNoVideo>1</showSnapshotNoVideo>
+      <showSnapshotDelay>1</showSnapshotDelay>
+      <effect>0</effect>
+      <delay>0.1</delay>
+    </video>
+  </view>
+
+  <view name="basic">
+    <textlist name="gamelist">
+      <size>1 ${gamelistSizeY}</size>
+    </textlist>
+  </view>
+
+  <view name="detailed, video">
+    <text name="md_description">
+      <visible>false</visible>
+    </text>
+    <textlist name="gamelist">
+      <size>0.5 ${gamelistSizeY}</size>
+    </textlist>
+    <image name="md_marquee">
+      <pos>0.75 ${gamelistPosYFrom}</pos>
+      <origin>0.5 0</origin>
+      <maxSize>${columnSizeX} ${marqueeSizeY}</maxSize>
+    </image>
+    <datetime name="md_releasedate">
+      <pos>${rightColumnPosXFrom} ${releasedatePosYFrom}</pos>
+    </datetime>
+    <rating name="md_rating">
+      <pos>${rightColumnPosXTo} ${ratingPosYMiddle}</pos>
+    </rating>
+    <text name="md_publisher">
+      <pos>${rightColumnPosXFrom} ${publisherPosYFrom}</pos>
+    </text>
+  </view>
+
+  <view name="detailed">
+    <image name="md_image">
+      <pos>0.75 ${videoPosYTo}</pos>
+      <origin>0.5 1</origin>
+      <maxSize>${columnSizeX} ${columnSizeX}</maxSize>
+    </image>
+  </view>
+
+  <view name="video">
+    <video name="md_video">
+      <pos>0.75 ${videoPosYTo}</pos>
+    </video>
+  </view>
+
+  <view name="grid">
+    <imagegrid name="gamegrid">
+      <imageSource>marquee</imageSource>
+      <pos>${leftColumnPosXFrom} ${gamegridPosYFrom}</pos>
+      <size>${columnSizeX} ${gamegridSizeY}</size>
+      <padding>${gamegridPaddingX} 0</padding>
+      <gameImage>./logos/${system.theme}.svg</gameImage>
+      <centerSelection>true</centerSelection>
+      <scrollLoop>false</scrollLoop>
+    </imagegrid>
+    <gridtile name="default">
+      <size>${gridtileDefaultSizeX} ${gridtileDefaultSizeY}</size>
+      <padding>0 0</padding>
+      <backgroundColor>FF</backgroundColor>
+    </gridtile>
+    <gridtile name="selected">
+      <size>${columnSizeX} ${gridtileSelectedSizeY}</size>
+    </gridtile>
+    <datetime name="md_releasedate">
+      <pos>${rightColumnPosXFrom} ${gamegridPosYFrom}</pos>
+       </datetime>
+    <rating name="md_rating">
+      <pos>${rightColumnPosXTo} ${gridRatingPosYMiddle}</pos>
+    </rating>
+    <text name="md_publisher">
+      <pos>${rightColumnPosXFrom} ${gridPublisherPosYFrom}</pos>
+    </text>
+    <video name="md_video">
+      <pos>0.75 ${gridVideoPosYTo}</pos>
+    </video>
+    <text name="md_description">
+      <pos>${rightColumnPosXFrom} ${gridDescriptionPosYFrom}</pos>
+      <size>${columnSizeX} ${gridDescriptionSizeY}</size>
+      <fontSize>${runningFontSize}</fontSize>
+      <color>000000</color>
+    </text>
+
+  </view>
+
+</theme>
