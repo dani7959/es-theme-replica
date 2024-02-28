@@ -10,6 +10,7 @@
     <batteryIndicatorPosY>0.0075</batteryIndicatorPosY>
     <batteryIndicatorSize>0.0347</batteryIndicatorSize>
     <clockPosYFrom>0.012</clockPosYFrom>
+    <carouselFontSize>0.0931</carouselFontSize>
     <carouselLogoSizeX>0.4791</carouselLogoSizeX>
     <columnSizeX>0.4582</columnSizeX>
     <leftColumnPosXFrom>0.0209</leftColumnPosXFrom>
