@@ -23,7 +23,6 @@ license: GNU General Public License v3.0
   <variables>
     <customFont>neo_scifi_v20.ttf</customFont>
     <mainFontSize>0.0396</mainFontSize>
-    <carouselFontSize>0.125</carouselFontSize>
     <runningSectionSizeY>0.05</runningSectionSizeY>
     <carouselSizeY ifHelpPrompts="true">0.9</carouselSizeY>
     <carouselSizeY ifHelpPrompts="false">0.95</carouselSizeY>
