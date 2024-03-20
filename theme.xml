@@ -21,7 +21,7 @@ license: GNU General Public License v3.0
   <include subset="SCROLL SOUND" name="ON">./subsets/sound.xml</include>
 
   <variables>
-    <customFont>neo_scifi_v20.ttf</customFont>
+    <customFont>LazenbyCompSmooth.ttf</customFont>
     <mainFontSize>0.0396</mainFontSize>
     <runningSectionSizeY>0.05</runningSectionSizeY>
     <carouselSizeY ifHelpPrompts="true">0.9</carouselSizeY>
