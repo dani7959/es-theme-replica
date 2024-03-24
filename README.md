@@ -41,6 +41,6 @@ Arduboy, Doom, Lowres NX, NScripter and Retro Arch logos, as well as all other g
 
 Heads up!
 This theme is not based on anything else. It is my own work.
-You may use or fork this theme, but obviously you may not include this theme in any commercial softwere.
+You may use or fork this theme, but obviously you may not include this theme in any commercial software.
 This theme is designed to help you enjoy your legally owned content. You may not include this theme, or forks of this theme, with any firmware that is shipped pre-loaded with pirated software.
 Please contact me at dani7959@gmail.com if you want to pre-load this theme on your image.
