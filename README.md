@@ -37,7 +37,7 @@ Logos:
 Some logos closely resemble trademarked and/or copyrighted content. All this content is the property of their respective owners.
 Most logos are based on Dan Patrick's extraordinary collection:
 https://forums.launchbox-app.com/files/file/3402-v2-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/
-Arduboy, Doom, Lowres NX, NScripter and Retro Arch logos, as well as all other graphics used in this theme are vectorized by myself, please credit my work if you use them.
+Arduboy, Doom, Lowres NX, NScripter, Puzzlescript, Retro Arch and Vircon32 logos, as well as all other graphics used in this theme are vectorized by myself, please credit my work if you use them.
 
 Heads up!
 This theme is not based on anything else. It is my own work.
