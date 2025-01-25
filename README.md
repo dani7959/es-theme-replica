@@ -1,10 +1,11 @@
 Replica ES Theme by dani7959
 
-A pixel perfect theme designed from scratch for handheld devices.
+A pixel perfect theme for handheld devices using ArkOS / EmulationStation FCAMOD.
+This theme is not based on anything else. It is my own blank-sheet design.
 
 Features:
-- no-nonsense design;
-- consistent fonts and colors throughout the UI;
+- function over form design;
+- consistent fonts and colors;
 - no overlapping or misaligned elements;
 - good legibility at all brightness levels;
 - sharp, all vector graphics;
@@ -40,7 +41,5 @@ https://forums.launchbox-app.com/files/file/3402-v2-platform-logos-professionall
 Arduboy, Doom, Lowres NX, NScripter, Puzzlescript, Retro Arch and Vircon32 logos, as well as all other graphics used in this theme are vectorized by myself, please credit my work if you use them.
 
 Heads up!
-This theme is not based on anything else. It is my own work.
-You may use or fork this theme, but obviously you may not include this theme in any commercial software.
-This theme is designed to help you enjoy your legally owned content. You may not include this theme, or forks of this theme, with any firmware that is shipped pre-loaded with pirated software.
-Please contact me at dani7959@gmail.com if you want to pre-load this theme on your image.
+You may use or fork this theme, but you may not include it in any commercial software.
+This theme is designed to help you enjoy your legally owned content.
