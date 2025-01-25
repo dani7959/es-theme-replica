@@ -1,6 +1,7 @@
 Replica ES Theme by dani7959
 
 A pixel perfect theme for handheld devices using ArkOS / EmulationStation FCAMOD.
+
 This theme is not based on anything else. It is my own blank-sheet design.
 
 Features:
