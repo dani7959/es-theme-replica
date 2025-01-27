@@ -14,11 +14,11 @@ Features:
 
 Install:
 - press the green "Code" button and select "Download ZIP";
-- extract to the themes folder of your firmware.
+- extract to the themes folder of your firmware (/roms/themes/ in ArkOS).
 
 Pro tips:
 - enable clock;
-- hide the help section for more screen estate and see if you like it;
+- hide the help section for more screen estate;
 - check out the color and sound options.
 
 Trivia:
@@ -31,7 +31,7 @@ I do not own enough devices to test all aspect ratios. In fact, I only have one.
 So feel free to report any issues on your device and I will do my best to fix it.
 
 Supported systems:
-I've included all systems supported by ArkOK at the time of release:
+I've included all systems supported by ArkOK at the time of the latest release:
 https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information
 Feel free to raise an issue if your desired system is not supported.
 
