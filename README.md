@@ -40,7 +40,7 @@ Some logos closely resemble trademarked and/or copyrighted content. All this con
 Most logos are based on Dan Patrick's extraordinary collection:
 https://forums.launchbox-app.com/files/file/3402-v2-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/
 
-Arduboy, Cave Story, Doom, J2ME, Lowres NX, NScripter, Puzzlescript, Retro Arch and Vircon32 logos, as well as all other graphics used in this theme are vectorized by myself, please credit my work if you use them.
+Arduboy, BBC Micro, Cave Story, Doom, J2ME, Lowres NX, NScripter, Puzzlescript, Retro Arch and Vircon32 logos, as well as all other graphics used in this theme are vectorized by myself, please credit my work if you use them.
 
 Heads up!
 You may use or fork this theme, but you may not include it in any commercial software.
