@@ -14,7 +14,8 @@ Features:
 
 Install:
 - press the green "Code" button and select "Download ZIP";
-- extract to the themes folder of your firmware (/roms/themes/ in ArkOS).
+- extract to the themes folder of your firmware (/roms/themes/ in ArkOS and dArkOS).
+As far as I know, updating is also supported via ThemeMaster.
 
 Pro tips:
 - enable clock;
@@ -31,7 +32,7 @@ I do not own enough devices to test all aspect ratios. In fact, I only have one.
 So feel free to report any issues on your device and I will do my best to fix it.
 
 Supported systems:
-I've included all systems supported by ArkOK at the time of the latest release:
+I've included all systems supported by ArkOK / dArkOS at the time of the latest release:
 https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information
 Feel free to raise an issue if your desired system is not supported.
 
@@ -40,7 +41,7 @@ Some logos closely resemble trademarked and/or copyrighted content. All this con
 Most logos are based on Dan Patrick's extraordinary collection:
 https://forums.launchbox-app.com/files/file/3402-v2-platform-logos-professionally-redrawn-official-versions-new-bigbox-defaults/
 
-Arduboy, BBC Micro, Cave Story, Doom, J2ME, Lowres NX, NScripter, Puzzlescript, Retro Arch and Vircon32 logos, as well as all other graphics used in this theme are vectorized by myself, please credit my work if you use them.
+Arduboy, BBC Micro, Cave Story, Doom, GameTank, J2ME, Lowres NX, NScripter, Puzzlescript, Retro Arch and Vircon32 logos, as well as all other graphics used in this theme are vectorized by myself, please credit my work if you use them.
 
 Heads up!
 You may use or fork this theme, but you may not include it in any commercial software.
