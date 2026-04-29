@@ -125,6 +125,7 @@ license: GNU General Public License v3.0
       <iconKodi>./icons/Kodi.svg</iconKodi>
       <iconManual>./icons/Manual.svg</iconManual>
       <iconNetwork>./icons/Network.svg</iconNetwork>
+      <iconOptions>./icons/Options.svg</iconOptions>
       <iconQuit>./icons/Quit.svg</iconQuit>
       <iconRestart>./icons/Restart.svg</iconRestart>
       <iconRetroachievements>./icons/Retroachievements.svg</iconRetroachievements>
