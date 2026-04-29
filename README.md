@@ -1,6 +1,6 @@
 Replica ES Theme by dani7959
 
-A pixel perfect theme for handheld devices using ArkOS / EmulationStation FCAMOD.
+A pixel perfect theme for handheld devices using dArkOS / EmulationStation FCAMOD. Icons are available for all menu options.
 
 This theme is not based on anything else. It is my own blank-sheet design.
 
@@ -32,8 +32,7 @@ I do not own enough devices to test all aspect ratios. In fact, I only have one.
 So feel free to report any issues on your device and I will do my best to fix it.
 
 Supported systems:
-I've included all systems supported by ArkOK / dArkOS at the time of the latest release:
-https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information
+I've included all systems supported by dArkOS at the time of the latest release:
 Feel free to raise an issue if your desired system is not supported.
 
 Logos:
